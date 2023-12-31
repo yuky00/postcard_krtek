@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(243, 229, 215);
+}
+
+h1{
+    color: rgb(56, 32, 10);
+}
+img{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+}
